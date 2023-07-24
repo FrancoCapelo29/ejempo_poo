@@ -1,0 +1,2 @@
+# ejempo_poo
+ obsidian
